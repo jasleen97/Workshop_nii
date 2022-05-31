@@ -51,3 +51,19 @@ hello <- function(){
 
 
 ```
+
+# Exercise (DAY2)
+
+# 1.Why does this code not work?
+
+1 instead of i the word variable.
+
+The below code work instead:
+my_fav_variable <- c('IL6','LINC','OAS1')
+my_fav_variable
+
+# 2.Write a R code to create a character vector of your favorite pathway.
+
+JK_ISP_mTOR <- c('IRS1/2','PI3K','Akt','mTOR')
+JK_ISP_mTOR
+

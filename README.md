@@ -56,7 +56,7 @@ hello <- function(){
 
 # 1.Why does this code not work?
 
-1 instead of i the word variable.
+1 instead of i in the word variable.
 
 The below code work instead:
 my_fav_variable <- c('IL6','LINC','OAS1')
